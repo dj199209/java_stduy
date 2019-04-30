@@ -1,4 +1,4 @@
-package java.study.day11;
+package com.study.day11;
 
 public class HelloWorld {
 

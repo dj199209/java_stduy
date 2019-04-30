@@ -1,9 +1,8 @@
-package java.study.day11;
+package com.study.day11;
 
-
-import java.study.bean.Student;
 
 import com.study.animal.Cat;
+import com.study.bean.Student;
 
 public class Demo1 {
 /*

@@ -1,18 +1,16 @@
-package java.study.bean;
+package com.study.bean;
 
-public class Student {
+public class Person {
 	private String name;
 	private int age;
-	public Student() {
-		super();
-		
+	public Person() {		//atl+shift+s+c成成空参构造
 	}
-	public Student(String name, int age) {
+	public Person(String name, int age) {//alt+shift+s+o
 		super();
 		this.name = name;
 		this.age = age;
 	}
-	public String getName() {
+	public String getName() {//alt+shift+s+r
 		return name;
 	}
 	public void setName(String name) {
@@ -24,4 +22,5 @@ public class Student {
 	public void setAge(int age) {
 		this.age = age;
 	}
+	
 }
