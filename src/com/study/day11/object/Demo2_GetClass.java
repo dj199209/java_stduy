@@ -1,6 +1,5 @@
 package com.study.day11.object;
 
-import com.study.bean.Person;
 import com.study.bean.Student;
 
 public class Demo2_GetClass {
